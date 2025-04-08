@@ -1,7 +1,6 @@
 <H3>Enter Name: Vasanth P </H3>
 <H3>Enter Register No: 212222240113</H3>
 <H3>Experiment 2</H3>
-<H3>Date:25-03-2025</H3>
 <h1 align =center>Implementation of Exact Inference Method of Bayesian Network</h1>
 
 
